@@ -56,8 +56,6 @@ Target Variable: NObeyesdad – categorical variable representing different obes
 
 - Family history plays a significant role in predicting obesity
 
-## Author
-- Riti Dahal  
 
 
 
