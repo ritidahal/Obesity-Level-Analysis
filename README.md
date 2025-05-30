@@ -1,4 +1,4 @@
-# Obesity-Level-Analysis
+# Obesity Level Analysis
 
 ## Project Objective
 To explore and analyze behavioral, demographic, and lifestyle-related factors influencing obesity using a dataset from the UCI Machine Learning Repository. The goal is to generate insights that may assist healthcare professionals and policymakers.
@@ -33,6 +33,44 @@ Target Variable: NObeyesdad – categorical variable representing different obes
 - High screen time (TUE) correlated with obesity
 
 - Gender and age patterns are visible in the obesity distribution
+
+### Business Relevance
+
+- Supports dieticians and healthcare practitioners in identifying at-risk individuals early
+
+- Aids in developing targeted intervention strategies based on behavioral traits
+
+- Highlights the importance of lifestyle changes in preventing obesity
+
+### Tools & Technologies
+- Python (Spyder IDE)
+
+- Libraries: pandas, matplotlib, seaborn
+
+- Data Source: UCI Machine Learning Repository
+
+### Summary of Results
+- Most obese individuals consumed fewer vegetables and more calories regularly
+
+- Low physical activity (FAF) and long hours using technology (TUE) are key indicators
+
+- Family history plays a significant role in predicting obesity
+
+## Project Structure
+├── data/
+│   └── ObesityDataSet.csv
+├── figures/
+│   ├── boxplots/
+│   ├── histograms/
+│   └── scatterplots/
+├── scripts/
+│   └── obesity_analysis.py
+├── report/
+│   └── Obesity_Project_Report.pdf
+└── README.md
+
+
+
 
 
 
