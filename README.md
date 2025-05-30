@@ -56,18 +56,8 @@ Target Variable: NObeyesdad – categorical variable representing different obes
 
 - Family history plays a significant role in predicting obesity
 
-## Project Structure
-├── data/
-│   └── ObesityDataSet.csv
-├── figures/
-│   ├── boxplots/
-│   ├── histograms/
-│   └── scatterplots/
-├── scripts/
-│   └── obesity_analysis.py
-├── report/
-│   └── Obesity_Project_Report.pdf
-└── README.md
+## Author
+- Riti Dahal  
 
 
 
